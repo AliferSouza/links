@@ -20,7 +20,7 @@ if(url2 === undefined){
   alert("Por favor, selecione um perfil")
 }
 else{ 
-  CardProfile.innerHTML = Card(dados, cardLinks)
+  CardProfile.innerHTML = Card(compararUrlEApi , cardLinks)
 }
 
 }
