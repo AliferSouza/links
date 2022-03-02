@@ -6,22 +6,22 @@
         "links": [
             {
                 "Nome": "whatsapp",
-                "imgUrl": "../../public/whatsapp.png",
+                "imgUrl": "https://github.com/AliferSouza/links/blob/main/public/whatsapp.png",
                 "Linkurl": ""
             },
             {
                 "Nome": "Instagram",
-                "imgUrl": "../../public/instagram.png",
+                "imgUrl": "https://github.com/AliferSouza/links/blob/main/public/instagram.png",
                 "LinkUrl": ""
             },
             {
                 "Nome": "facebook",
-                "imgUrl": "../../public/facebook.png",
+                "imgUrl": "https://github.com/AliferSouza/links/blob/main/public/facebook.png",
                 "LinkUrl": ""
             },
             {
                 "Nome": "Site",
-                "imgUrl": "../../public/global-network.png",
+                "imgUrl": "https://github.com/AliferSouza/links/blob/main/public/global-network.png",
                 "LinkUrl": ""
             }
          
@@ -35,22 +35,22 @@
         "links": [
             {
                 "Nome": "whatsapp",
-                "imgUrl": "../../public/whatsapp.png",
+                "imgUrl": "https://github.com/AliferSouza/links/blob/main/public/whatsapp.png",
                 "Linkurl": ""
             },
             {
                 "Nome": "Instagram",
-                "imgUrl": "../../public/instagram.png",
+                "imgUrl": "https://github.com/AliferSouza/links/blob/main/public/instagram.png",
                 "LinkUrl": ""
             },
             {
                 "Nome": "facebook",
-                "imgUrl": "../../public/facebook.png",
+                "imgUrl": "https://github.com/AliferSouza/links/blob/main/public/facebook.png",
                 "LinkUrl": "https://www.facebook.com/cinderellafashioncf/?business_id=10152592499697447"
             },
             {
                 "Nome": "Site",
-                "imgUrl": "../../public/global-network.png",
+                "imgUrl": "https://github.com/AliferSouza/links/blob/main/public/global-network.png",
                 "LinkUrl": ""
             }
          
@@ -64,27 +64,27 @@
         "links": [
             {
                 "Nome": "whatsapp",
-                "imgUrl": "../../public/whatsapp.png",
+                "imgUrl": "https://github.com/AliferSouza/links/blob/main/public/whatsapp.png",
                 "LinkUrl": "https://api.whatsapp.com/send?phone=5531991792343&text=Oi%2C%20tudo%20bem%3F"
             },
             {
                 "Nome": "Instagram",
-                "imgUrl": "../../public/instagram.png",
+                "imgUrl": "https://github.com/AliferSouza/links/blob/main/public/instagram.png",
                 "LinkUrl": "https://instagram.com/vidasants?utm_medium=copy_link"
             },
             {
                 "Nome": "Instagram",
-                "imgUrl": "../../public/instagram.png",
+                "imgUrl": "https://github.com/AliferSouza/links/blob/main/public/instagram.png",
                 "LinkUrl": "https://instagram.com/mymosdavida?utm_medium=copy_link"
             },
             {
                 "Nome": "facebook",
-                "imgUrl": "../../public/facebook.png",
+                "imgUrl": "https://github.com/AliferSouza/links/blob/main/public/facebook.png",
                 "LinkUrl": "https://www.facebook.com/mymos.davida.92"
             },
             {
                 "Nome": "Site",
-                "imgUrl": "../../public/global-network.png",
+                "imgUrl": "https://github.com/AliferSouza/links/blob/main/public/global-network.png",
                 "LinkUrl": "https://mymosdavida.mercadoshops.com.br/"
             }
          
