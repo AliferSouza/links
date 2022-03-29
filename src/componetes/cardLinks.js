@@ -1,12 +1,12 @@
-export default function cardLinks(dado) {
-  let cardLink = "";
-  
-  dado.forEach((link)=>{
+export default function cardLinks(dado, cardlink) {
+  let cardLink = "";  
+
+   dado.forEach((link)=>{
     let linksFiltrados = link.links 
-    linksFiltrados.forEach((exibirIcones)=>{
+    linksFiltrados.forEach((exibirIcones)=>{  
       cardLink += `    
    
-      <a href="${exibirIcones.LinkUrl}" class="link" target="_blank">
+      <a href="${exibirIcones.LinkUrl}" style="background:${link.colorButton}" class="link" target="_blank">
           <img class="icone"
               src="${exibirIcones.imgUrl}">
           <h1>${exibirIcones.Nome}</h1>
