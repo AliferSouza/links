@@ -10,17 +10,19 @@ let compararUrlEApi = dados.filter((item) => {
 })
 
 
-const cardLinks = CardLinks(compararUrlEApi)
+const cardLinks = CardLinks(compararUrlEApi, dados)
+
 
 const CardProfile = document.querySelector('.card')
-
+const body = document.querySelector('body')
 
 export default function App() {  
 if(url2 === undefined){ 
   alert("Por favor, selecione um perfil")
 }
 else{ 
-  CardProfile.innerHTML = Card(compararUrlEApi , cardLinks)
-}
+  CardProfile.innerHTML = Card(compararUrlEApi, cardLinks)
+  body.style.backgroundColor = compararUrlEApi[0].backgroundColor
+ }
 
 }

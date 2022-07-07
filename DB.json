@@ -3,93 +3,109 @@
         "Id": "AliferSouza",
         "Nome": "Alifer Souza",
         "Logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBkP9AFf504PzAxlt3aoz6chxZ1BqSDnSFyHNvAhO1RhrtCHc9nVMOFIsKtOMps6Dy7cI&usqp=CAU",
+        "colorButton": "black",
+        "backgroundColor": "#7270ff",
         "links": [
             {
                 "Nome": "whatsapp",
-                "imgUrl": "./public/whatsapp.png",
+                "imgUrl": "../../public/whatsapp.png",
                 "Linkurl": ""
             },
             {
                 "Nome": "Instagram",
-                "imgUrl": "./public/instagram.png",
+                "imgUrl": "../../public/instagram.png",
                 "LinkUrl": ""
             },
             {
                 "Nome": "facebook",
-                "imgUrl": "./public/facebook.png",
+                "imgUrl": "../../public/facebook.png",
                 "LinkUrl": ""
             },
             {
                 "Nome": "Site",
-                "imgUrl": "./public/global-network.png",
+                "imgUrl": "../../public/global-network.png",
                 "LinkUrl": ""
             }
          
-        ],
-        "Style":""
+        ]
+       
     },
     {
         "Id": "AttendencePassosdecinderella",
         "Nome": "Attendence Passos de cinderella",
         "Logo": "https://scontent.fbhz3-1.fna.fbcdn.net/v/t1.6435-9/37007499_2094621154132276_4565575610314784768_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=174925&_nc_eui2=AeEMjVIXaNyA-UtUHkke2bscJzohKM-HNz0nOiEoz4c3PYk6dHPL4Cfgk6M9t_wuunMj8jUuftGKD7JQBXfWfgZ2&_nc_ohc=7fRlAk7wW7AAX8rC1RK&_nc_ht=scontent.fbhz3-1.fna&oh=00_AT9mv1b5Oc0ywejMxiJ7UMHTMAhdVHTDdIRFs9yxLzqOwg&oe=6221D06C",
+        "colorButton": "red",
+        "backgroundColor": "#4747ff",
         "links": [
             {
                 "Nome": "whatsapp",
-                "imgUrl": "./public/whatsapp.png",
+                "imgUrl": "../../public/whatsapp.png",
                 "Linkurl": ""
             },
             {
                 "Nome": "Instagram",
-                "imgUrl": "./public/instagram.png",
+                "imgUrl": "../../public/instagram.png",
                 "LinkUrl": ""
             },
             {
                 "Nome": "facebook",
-                "imgUrl": "./public/facebook.png",
+                "imgUrl": "../../public/facebook.png",
                 "LinkUrl": "https://www.facebook.com/cinderellafashioncf/?business_id=10152592499697447"
             },
             {
                 "Nome": "Site",
-                "imgUrl": "./public/global-network.png",
+                "imgUrl": "../../public/global-network.png",
                 "LinkUrl": ""
             }
          
-        ],
-        "Style":""
+        ]
+    
     },
     {
         "Id": "mymosdavida",
         "Nome": "Mymos da Vida",
         "Logo": "https://scontent.fbhz3-1.fna.fbcdn.net/v/t1.6435-9/83143571_147634813371219_5888834139196489728_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeF8T3d0Yp4686PGDaXy5BxQkj23jEMl6tySPbeMQyXq3JzvosD8vUV-AOlXeqh-RRtIvcfjN_0PtAMf5r4Luwng&_nc_ohc=IpEHqyShf8IAX9Ojh-Z&tn=uoalZqTU1MhN6Ep1&_nc_ht=scontent.fbhz3-1.fna&oh=00_AT-bEAlfofNYcsoMV1Z2j42zX9agFh7-cYvnFWsG3EQ6Iw&oe=6246141B",
+        "colorButton": "black",
+        "backgroundColor": "#474747",
         "links": [
             {
-                "Nome": "whatsapp",
-                "imgUrl": "./public/whatsapp.png",
+                "Nome": "Mymos da Vida",
+                "imgUrl": "../../public/whatsapp.png",
                 "LinkUrl": "https://api.whatsapp.com/send?phone=5531991792343&text=Oi%2C%20tudo%20bem%3F"
             },
             {
-                "Nome": "Instagram",
-                "imgUrl": "./public/instagram.png",
+                "Nome": "Espaço Ateliê",
+                "imgUrl": "../../public/whatsapp.png",
+                "LinkUrl": "https://api.whatsapp.com/send?phone=5531971685900&text=Oi%2C%20tudo%20bem%3F"
+            },
+            {
+                "Nome": "Mymos da vida",
+                "imgUrl": "../../public/instagram.png",
                 "LinkUrl": "https://instagram.com/vidasants?utm_medium=copy_link"
             },
             {
-                "Nome": "Instagram",
-                "imgUrl": "./public/instagram.png",
+                "Nome": "Vida Sants",
+                "imgUrl": "../../public/instagram.png",
                 "LinkUrl": "https://instagram.com/mymosdavida?utm_medium=copy_link"
             },
             {
                 "Nome": "facebook",
-                "imgUrl": "./public/facebook.png",
+                "imgUrl": "../../public/facebook.png",
                 "LinkUrl": "https://www.facebook.com/mymos.davida.92"
             },
             {
+                "Nome": "Youtube",
+                "imgUrl": "../../public/youtube.png",
+                "LinkUrl": "https://www.youtube.com/channel/UCYxRrsKLLs9XL76sLGepKew"
+            },
+            {
                 "Nome": "Site",
-                "imgUrl": "./public/global-network.png",
+                "imgUrl": "../../public/global-network.png",
                 "LinkUrl": "https://mymosdavida.mercadoshops.com.br/"
             }
          
-        ],
-        "Style":""
+        ]
+        
     }
 
 ]
