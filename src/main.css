@@ -448,3 +448,13 @@ fieldset {
       -webkit-transform: scale(1);
     }
   }
+
+.link-minisite{
+    position: relative;
+    top: 20px;
+    padding: 5px;
+    border-radius: 10px;
+    background: #333;
+    font-size: 7px;
+    color: #F2F2F2;
+}
