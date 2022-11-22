@@ -7,7 +7,7 @@ import select from "../lib/src/Select.js"
 
 export default function gerarLinks() {
     const data = []    
-    const dados = apiGerar("dono", "link")
+
 
 
 
@@ -51,6 +51,7 @@ export default function gerarLinks() {
 
 
     window.link = () => {
+            const dados = apiGerar("dono", "link")
         navigateTo("#minisite" + dados)
         router({ minisite })
 
