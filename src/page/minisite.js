@@ -42,10 +42,11 @@ title.innerHTML = `${data.a.Nome}`
     <h2>Visite minhas paginas </h2>
        
    ${buttonLink(data.b)}
-      
-    <br>    
-    <h1  style=" color:"> </h1>
-    </a>
+   <div>      
+   <a class="link-minisite" href="https://alifersouza.github.io/links" target="_blank">Crie o seu mini site</a>
+   <a class="link-minisite" href="https://bitly.com/" target="_blank"> Ecurtador de link</a>
+   </div>
+  
     </div>
     <div>
 `;
