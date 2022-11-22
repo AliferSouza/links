@@ -81,24 +81,24 @@ export default function gerarLinks() {
                     <fieldset class="radio-image escolhaFoto">
                         <label for="M">
                             
-                            <img src=".././img/facebook.png"id="facebook" onclick="pegar(id, src)" name="facebook" class="escolha" alt="facebook"
+                            <img src="./public/img/facebook.png"id="facebook" onclick="pegar(id, src)" name="facebook" class="escolha" alt="facebook"
                                 height="45px">
                         </label>
 
                         <label for="F">
                            
-                            <img src=".././img/instagram.png" id="instagram" onclick="pegar(id, src)"  class="escolha" alt="instagram"
+                            <img src="./public/img/instagram.png" id="instagram" onclick="pegar(id, src)"  class="escolha" alt="instagram"
                                 height="45px">
                         </label>
 
                         <label for="A">
                            
-                            <img src=".././img/whatsapp.png" id="whatsapp" onclick="pegar(id, src)"  class="escolha" alt="whatsapp"
+                            <img src="./public/img/whatsapp.png" id="whatsapp" onclick="pegar(id, src)"  class="escolha" alt="whatsapp"
                                 height="45px">
                         </label>
                         <label for="B">
                             
-                            <img src=".././youtube.png" id="youtube" onclick="pegar(id, src)" class="escolha" alt="youtube" height="45px">
+                            <img src="./public/img/youtube.png" id="youtube" onclick="pegar(id, src)" class="escolha" alt="youtube" height="45px">
                         </label>
                     </fieldset>
 
